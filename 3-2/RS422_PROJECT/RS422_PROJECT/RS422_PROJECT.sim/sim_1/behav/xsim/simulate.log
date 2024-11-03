@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: Test Failed - Incorrect Byte Received
+Time: 3125050 ns  Iteration: 0  Process: /uart_tb/line__136  File: C:/Users/Emelin/vivado_projects/UART/UART/RS422_PROJECT/RS422_PROJECT.srcs/sim_1/new/uart_tb.vhd
+Failure: Tests Complete
+Time: 3125050 ns  Iteration: 0  Process: /uart_tb/line__136  File: C:/Users/Emelin/vivado_projects/UART/UART/RS422_PROJECT/RS422_PROJECT.srcs/sim_1/new/uart_tb.vhd
+$finish called at time : 3125050 ns : File "C:/Users/Emelin/vivado_projects/UART/UART/RS422_PROJECT/RS422_PROJECT.srcs/sim_1/new/uart_tb.vhd" Line 161
