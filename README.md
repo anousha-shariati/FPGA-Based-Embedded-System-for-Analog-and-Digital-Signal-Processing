@@ -181,8 +181,5 @@ _________|                      |________
     <li>Knowledge of <strong>VHDL programming</strong></li>
 </ul>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License.</p>
-
 </body>
 </html>
